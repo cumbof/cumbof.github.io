@@ -9,51 +9,56 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education and training
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- *October 2015 – April 2019*
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  Ph.D. in Computer Science and Automation Engineering at the Department of Engineering, University of Roma Tre, Rome, Italy with a thesis about "*Data and models integration in biomedical information systems*" (Advisors: Prof Maurizio Patrignani and Dr. Paola Bertolazzi)
 
-Publications
+- *October 2012 –August 2014*
+
+  Master of Science Degree in Software Engineering at the Department of Engineering, University of Roma Tre, Rome, Italy with a thesis about "Time dynamics of protein complexes in the AD11 transgenic mouse model for Alzheimer’s disease like pathology" (Advisors: Prof. Giuseppe Di Battista and Dr. Paola Bertolazzi)
+
+- *October 2008 – October 2012*
+
+  Bachelor's Degree in Software Engineering at the Department of Engineering, University of Roma Tre, Rome, Italy with a thesis about "Selecting relevant nodes and structures in biological networks. BiNAT: a new plugin for Cytoscape" (Advisors: Prof. Giuseppe Di Battista and Dr. Paola Bertolazzi)
+
+Working experiences
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+- *March 2022 - __ongoing__*
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  Postdoctoral Fellow at the [Blankenberg Lab](https://www.lerner.ccf.org/gmi/blankenberg/), [Genomic Medicine Institute](https://www.lerner.ccf.org/gmi/), [Lerner Research Institute](https://www.lerner.ccf.org/) of the [Cleveland Clinic](https://my.clevelandclinic.org/), Cleveland, Ohio, USA.
+
+- *November 2018 – December 2021*
+
+  Postdoctoral Fellow at the Segata Lab, [Computational Metagenomics Laboratory](http://segatalab.cibio.unitn.it/), Department of Cellular, Computational, and Integrative Biology (CIBIO), University of Trento – Trento, Italy
+
+- *April 2018 – December 2018*
+
+  Professional Collaborator at [ACTOR (Analytics, Control Technologies and Operations Research) S.R.L.](http://www.actorventure.com/), Rome, Italy
+
+- *April 2018 – September 2018*
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  Ph.D. Fellow at the [Institut für Informatik](https://www.informatik.uni-freiburg.de/) of the Albert-Ludwigs-Universität Freiburg, Freiburg im Breisgau, Germany
+
+- *March 2017 – March 2018*
+
+  Research Lab Assistant at Wartik Laboratory, [Department of Biochemistry and Molecular Biology](https://science.psu.edu/bmb), The Pennsylvania State University, University Park Campus, 16802 PA, Pennsylvania, USA
+
+- *February 2017 – November 2018*
+
+  Professional Collaborator and Teaching Assistant at the [Department of Engineering](https://www.uninettunouniversity.net/en/laurea-ingegneria.aspx), International Telematic University Uninettuno, Rome, Italy
+
+- *September 2016 – March 2017*
+
+  Professional Collaborator at the [Institute of Marine Engineering](http://www.inm.cnr.it/) (ex "Marine Technology Research Institute – INSEAN") of the National Research Council of Italy, INM-CNR, Rome, Italy
+
+- *October 2015 – November 2018*
+
+  Ph.D. Student at the [Department of Engineering](https://www.uniroma3.it/en/about-us/departments-and-schools/departments/engineering-009442/), University of Roma Tre, Rome, Italy
+
+- *September 2011 – February 2020*
+
+  Research Assistant at the [Institute for Systems Analysis and Computer Science "Antonio Ruberti"](http://www.iasi.cnr.it/new/), National Research Council of Italy, IASI-CNR, Rome, Italy
