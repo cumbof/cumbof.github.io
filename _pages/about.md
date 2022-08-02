@@ -13,3 +13,9 @@ I'm a Software Engineer with a Ph.D. in [Computer Science and Automation Enginee
 Have a look at [my curriculum vitae](https://cumbof.github.io/cv) under the CV section of this website.
 
 You can find my publications on <u><a href="https://scholar.google.com/citations?user=DJWJY7EAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+
+### News
+
+|            |            |
+|:-----------|:-----------|
+| 03/02/2022 | :seedling: Started a new position as Postdoctoral Fellow at the Blankenberg Lab, Genomic Medicine Institute, Lerner Research Institute, Cleveland Clinic, OH, USA |
