@@ -5,9 +5,7 @@ permalink: /software/
 author_profile: true
 ---
 
-{% if author.github %}
-  You can also find my softwares on <u><a href="https://github.com/{{author.github}}">my GitHub profile</a>.</u>
-{% endif %}
+You can also find my softwares on <u><a href="https://github.com/{{author.github}}">my GitHub profile</a>.</u>
 
 {% include base_path %}
 
