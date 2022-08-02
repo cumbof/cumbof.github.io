@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Fabio Cumbo is a Software Engineer with a Ph.D. in Computer Science and Automation Engineering, currently Postdoctoral Researcher at the Blankenberg Lab, Genomic Medicine Institute, Lerner Research Institute of the Cleveland Clinic, Cleveland, Ohio, USA.
+Fabio Cumbo is a Software Engineer with a Ph.D. in [Computer Science and Automation Engineering](http://phd.dia.uniroma3.it/), currently Postdoctoral Researcher at the [Blankenberg Lab](https://www.lerner.ccf.org/gmi/blankenberg/), [Genomic Medicine Institute](https://www.lerner.ccf.org/gmi/), [Lerner Research Institute](https://www.lerner.ccf.org/) of the [Cleveland Clinic](https://my.clevelandclinic.org/), Cleveland, Ohio, USA.
 
 Have a look at [Fabio's curriculum vitae](https://cumbof.github.io/cv) under the CV section of this website.
