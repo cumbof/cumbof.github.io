@@ -3,7 +3,7 @@ title: "MetaSBT"
 collection: software
 type: "Software"
 permalink: /software/metasbt
-date: 2020-07-20
+date: 2022-07-20
 tags:
   - Metagenomics
   - Sequence Bloom Trees

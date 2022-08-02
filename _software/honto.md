@@ -3,7 +3,7 @@ title: "honto"
 collection: software
 type: "Software"
 permalink: /software/honto
-date: 2020-08-01
+date: 2022-08-01
 tags:
   - Networks
   - Homophily
