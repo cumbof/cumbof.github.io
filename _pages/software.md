@@ -5,7 +5,7 @@ permalink: /software/
 author_profile: true
 ---
 
-You can also find my softwares on <u><a href="https://github.com/{{author.github}}">my GitHub profile</a>.</u>
+You can also find my software on <u><a href="https://github.com/cumbof">my GitHub profile</a>.</u>
 
 {% include base_path %}
 
