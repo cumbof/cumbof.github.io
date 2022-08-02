@@ -12,7 +12,7 @@ I'm a Software Engineer with a Ph.D. in [Computer Science and Automation Enginee
 
 Have a look at [my curriculum vitae](https://cumbof.github.io/cv) under the CV section of this website.
 
-You can find my publications on <u><a href="https://scholar.google.com/citations?user=DJWJY7EAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+You can find my publications on [my Google Scholar profile](https://scholar.google.com/citations?user=DJWJY7EAAAAJ&hl=en).
 
 ### News
 
