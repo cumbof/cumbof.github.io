@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education and training
-======
+Click [here](https://cumbof.github.io/files/curriculum-vitae.pdf) to download the extended version of this curriculum vitae in PDF format.
+
+## Education and training
 
 - *October 2015 – April 2019*
 
@@ -18,14 +19,13 @@ Education and training
 
 - *October 2012 –August 2014*
 
-  Master of Science Degree in Software Engineering at the Department of Engineering, University of Roma Tre, Rome, Italy with a thesis about "Time dynamics of protein complexes in the AD11 transgenic mouse model for Alzheimer’s disease like pathology" (Advisors: Prof. Giuseppe Di Battista and Dr. Paola Bertolazzi)
+  Master of Science Degree in Software Engineering at the Department of Engineering, University of Roma Tre, Rome, Italy with a thesis about "*Time dynamics of protein complexes in the AD11 transgenic mouse model for Alzheimer’s disease like pathology*" (Advisors: Prof. Giuseppe Di Battista and Dr. Paola Bertolazzi)
 
 - *October 2008 – October 2012*
 
-  Bachelor's Degree in Software Engineering at the Department of Engineering, University of Roma Tre, Rome, Italy with a thesis about "Selecting relevant nodes and structures in biological networks. BiNAT: a new plugin for Cytoscape" (Advisors: Prof. Giuseppe Di Battista and Dr. Paola Bertolazzi)
+  Bachelor's Degree in Software Engineering at the Department of Engineering, University of Roma Tre, Rome, Italy with a thesis about "*Selecting relevant nodes and structures in biological networks. BiNAT: a new plugin for Cytoscape*" (Advisors: Prof. Giuseppe Di Battista and Dr. Paola Bertolazzi)
 
-Working experiences
-======
+## Working experiences
 
 - *March 2022 - __ongoing__*
   
