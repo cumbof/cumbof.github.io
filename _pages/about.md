@@ -10,9 +10,9 @@ redirect_from:
 
 I'm a Software Engineer with a Ph.D. in [Computer Science and Automation Engineering](http://phd.dia.uniroma3.it/), currently Postdoctoral Researcher at the [Blankenberg Lab](https://www.lerner.ccf.org/gmi/blankenberg/), [Genomic Medicine Institute](https://www.lerner.ccf.org/gmi/), [Lerner Research Institute](https://www.lerner.ccf.org/) of the [Cleveland Clinic](https://my.clevelandclinic.org/), Cleveland, Ohio, USA.
 
-Have a look at [my curriculum vitae](https://cumbof.github.io/cv) under the CV section of this website.
+Have a look at my professional profile, including academic path and achievements, on [my curriculum vitae](https://cumbof.github.io/files/curriculum-vitae.pdf).
 
-You can find my publications on [my Google Scholar profile](https://scholar.google.com/citations?user=DJWJY7EAAAAJ&hl=en).
+You can find all my publications on [my Google Scholar profile](https://scholar.google.com/citations?user=DJWJY7EAAAAJ&hl=en).
 
 ### News
 
