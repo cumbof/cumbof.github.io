@@ -14,7 +14,7 @@ Have a look at my professional profile, including academic path and achievements
 
 You can find all my publications on [my Google Scholar profile](https://scholar.google.com/citations?user=DJWJY7EAAAAJ&hl=en).
 
-### News
+### Highlights
 
 | Date       | Event      |
 |:-----------|:-----------|
