@@ -18,6 +18,7 @@ You can find all my publications on [my Google Scholar profile](https://scholar.
 
 | Date       | Event      |
 |:-----------|:-----------|
+| 08/16/2022 | 🎓 [Certificate of Quantum Excellence](https://www.credly.com/badges/48c69cd5-8511-4942-9cc8-4e0a134bdeda/) issued by IBM for successfully completing the Qiskit Global Summer School 2022 |
 | 07/20/2022 | 🗣️ Presented "*Microbial Strain Characterization and Subtyping of Metagenome-Assembled Genomes With Sequence Bloom Trees in Galaxy*" at the Galaxy Community Conference (GCC2022) in Minneapolis, MN, USA |
 | 05/04/2022 | 🏆 Awarded with the Galaxy Community Conference (GCC2022) Fellowship |
 | 03/02/2022 | 🌱 Started a new position as Postdoctoral Fellow at the Blankenberg Lab, Genomic Medicine Institute, Lerner Research Institute, Cleveland Clinic, OH, USA |
