@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Software Engineer with a Ph.D. in [Computer Science and Automation Engineering](http://phd.dia.uniroma3.it/), currently Postdoctoral Research Fellow at the [Blankenberg Lab](https://www.lerner.ccf.org/gmi/blankenberg/), [Genomic Medicine Institute](https://www.lerner.ccf.org/gmi/), [Lerner Research Institute](https://www.lerner.ccf.org/) of the [Cleveland Clinic](https://my.clevelandclinic.org/), Cleveland, Ohio, USA.
+I'm a Software Engineer with a Ph.D. in [Computer Science and Automation Engineering](http://phd.dia.uniroma3.it/), currently Postdoctoral Research Fellow at the [Blankenberg Lab](https://www.lerner.ccf.org/gmi/blankenberg/), [Center for Computational Life Sciences](https://my.clevelandclinic.org/research/computational-life-sciences), [Lerner Research Institute](https://www.lerner.ccf.org/) of the [Cleveland Clinic](https://my.clevelandclinic.org/), Cleveland, Ohio, USA.
 
 Have a look at my professional profile, including academic path and achievements, on [my curriculum vitae](https://cumbof.github.io/files/curriculum-vitae.pdf).
 
