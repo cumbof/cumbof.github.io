@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Dr. Fabio Cumbo"
   avatar           : "Cumbo_Fabio_135221_square.jpg"
-  bio              : "Postdoctoral Researcher at the Blankenberg Lab, Genomic Medicine Institute, Lerner Research Institute of the Cleveland Clinic, Cleveland, Ohio, USA"
+  bio              : "Postdoctoral Researcher at the Blankenberg Lab, Center for Computational Life Sciences, Lerner Research Institute of the Cleveland Clinic, Cleveland, Ohio, USA"
   location         : "Cleveland, OH, USA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=fabio+cumbo"
   googlescholar    : "https://scholar.google.com/citations?user=DJWJY7EAAAAJ&hl=en"
   email            : "fabio.cumbo@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Fabio-Cumbo"
   uri              :
   bitbucket        :
   codepen          :
