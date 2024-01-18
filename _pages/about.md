@@ -16,7 +16,7 @@ You can find all my published scientific articles in peer-reviewed journals, con
 
 > _I'm always available for new collaborations! Get in touch with me at [fabio.cumbo@gmail.com](mailto:fabio.cumbo@gmail.com?subject=Collaboration) or [cumbof@ccf.org](mailto:cumbof@ccf.org?subject=Collaboration)_
 
-### Research Interests
+## Research Interests
 
 My research interests include but are not limited to:
 
@@ -26,7 +26,7 @@ My research interests include but are not limited to:
 
 - **Hyperdimensional Computing**: a.k.a. Vector-Symbolic Architectures, this is an emerging way of computing with vectors in a high-dimensional space. As a new computational paradigm, it has an innumerable fields of application, including artificial intelligence, cognitive science, robotics, natural language processing, bioinformatics, and the internet of things, among other scientific disciplines.
 
-### Highlights
+## Highlights
 
 | Date       | Event      |
 |:-----------|:-----------|
