@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Software Engineer with a Ph.D. in [Computer Science and Automation Engineering](http://phd.dia.uniroma3.it/), currently Postdoctoral Research Fellow at the [Blankenberg Lab](https://www.lerner.ccf.org/gmi/blankenberg/), [Center for Computational Life Sciences](https://my.clevelandclinic.org/research/computational-life-sciences), [Lerner Research Institute](https://www.lerner.ccf.org/) of the [Cleveland Clinic](https://my.clevelandclinic.org/), Cleveland, Ohio, USA.
+I'm a Software Engineer with a Ph.D. in [Computer Science and Automation Engineering](http://phd.dia.uniroma3.it/), currently Postdoctoral Researcher at the [Blankenberg Lab](https://www.lerner.ccf.org/computational-medicine/blankenberg/), [Center for Computational Life Sciences](https://my.clevelandclinic.org/research/computational-life-sciences), [Lerner Research Institute](https://www.lerner.ccf.org/) of the [Cleveland Clinic](https://my.clevelandclinic.org/), Cleveland, Ohio, USA.
 
-Have a look at my professional profile, including academic path and achievements, on [my curriculum vitae](https://docs.google.com/viewer?url=https://docs.google.com/document/d/1sD3fAfBxPRlc8fSrvMsvO8oMFKunNHnq6rS5UH5c-zk/export?format=pdf).
+My main research interests are ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-blue), ![Metagenomics](https://img.shields.io/badge/Metagenomics-blue), ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue), and ![Hyperdimensional Computing](https://img.shields.io/badge/Hyperdimensional%20Computing-blue) (a.k.a. ![Vector-Symbolic Architectures](https://img.shields.io/badge/Vector--Symbolic%20Architectures-blue)).
 
-You can find all my publications on [my Google Scholar profile](https://scholar.google.com/citations?user=DJWJY7EAAAAJ&hl=en).
+Have a look at my professional profile, including my working experiences, achievements, and academic contributions, on [my curriculum vitae](https://docs.google.com/viewer?url=https://docs.google.com/document/d/1sD3fAfBxPRlc8fSrvMsvO8oMFKunNHnq6rS5UH5c-zk/export?format=pdf).
 
-> _I'm always available for new collaborations! Get in touch with me at [fabio.cumbo@gmail.com](mailto:fabio.cumbo@gmail.com?subject=Collaboration)_
+You can find all my published scientific articles in peer-reviewed journals, conference proceedings, and pre-prints on [my Google Scholar profile](https://scholar.google.com/citations?user=DJWJY7EAAAAJ&hl=en).
+
+![Citations](https://img.shields.io/badge/Citations-+2,200-blue) ![h-index](https://img.shields.io/badge/h--index-15-blue) ![i10-index](https://img.shields.io/badge/i10--index-19-blue)
+
+> _I'm always available for new collaborations! Get in touch with me at [fabio.cumbo@gmail.com](mailto:fabio.cumbo@gmail.com?subject=Collaboration) or [cumbof@ccf.org](mailto:cumbof@ccf.org?subject=Collaboration)_
 
 ### Highlights
 
