@@ -18,7 +18,6 @@ My scientific portfolio, including research articles in peer-reviewed journals, 
 
 | Date    | Event |
 |:--------|:------|
-
 | 08/2024 | 🎓 [Certificate of Quantum Excellence](https://www.credly.com/badges/262ea0c9-7277-4bf9-8b80-6b0a8bb0bb57/) issued by IBM for successfully completing the Qiskit Global Summer School 2024 |
 | 07/2024 | 🗣️ Presented "_Building Vector-Symbolic Architectures with Python_" with a talk at PyOhio in Cleveland, OH, USA |
 | 03/2024 | 🏆 Cleveland Clinic Excellence Award in recognition of demonstrated exceptional outstanding achievements |
