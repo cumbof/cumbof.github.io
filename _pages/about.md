@@ -20,11 +20,11 @@ My curriculum vitae is instead available [here](https://docs.google.com/document
 
 My research interests include but are not limited to:
 
-- __Bioinformatics__: with a research experience of over 10 years, my interests cover a wide spectrum of research areas under the bioinformatics domain with a particular emphasis on Metagenomics and the design of new computational techniques for the characterization of known and yet-to-be-named microbial species.
+- __Bioinformatics__: developing new computational methods in Metagenomics for the discovery and characterization of known and yet-to-be-named microbial species;
 
-- __Machine Learning__: experienced in teaching modern Big Data Analytics and Visualization techniques, I also designed novel energy- and memory-efficient machine learning methods for dealing with massive amounts of biomedical data with commodity hardware as well as in distributed environments.
+- __Machine Learning__: designing evergy- and memory-efficient machine learning methods for analyzing large-scale biomedical data;
 
-- __Hyperdimensional Computing__: a.k.a. Vector-Symbolic Architectures, this is an emerging way of computing with vectors in a high-dimensional space. As a new computational paradigm, it has an innumerable fields of application, including artificial intelligence, cognitive science, robotics, natural language processing, bioinformatics, and the internet of things, among other scientific disciplines.
+- __Hyperdimensional Computing__: developing and applying Hyperdimensional Computing (Vector-Symbolic Architectures) to solve complex problems in artificial intelligence and bioinformatics;
 
 - __Quantum Computing__: currently exploring its application to Hyperdimensional Computing and the development of new quantum neuromorphic architectures.
 
