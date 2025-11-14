@@ -12,7 +12,9 @@ I'm a Software Engineer with a Ph.D. in [Computer Science and Automation Enginee
 
 Have a look at my professional profile, including my working experiences, achievements, and academic contributions, on [my Curriculum Vitae](https://docs.google.com/viewer?url=https://docs.google.com/document/d/1sD3fAfBxPRlc8fSrvMsvO8oMFKunNHnq6rS5UH5c-zk/export?format=pdf).
 
-You can find all my published scientific articles in peer-reviewed journals, conference proceedings, and pre-prints on [my Google Scholar profile](https://scholar.google.com/citations?user=DJWJY7EAAAAJ&hl=en).
+My scientific portfolio comprising peer-reviewed journal articles, conference proceedings, and pre-print manuscripts are available on [my Google Scholar profile](https://scholar.google.com/citations?user=DJWJY7EAAAAJ&hl=en).
+
+My curriculum vitae is instead available [here](https://docs.google.com/document/d/1ZinL98Rikno3QENxM8tPPaxQUWQsjcBP_B8xzd2CUG8/export?format=pdf).
 
 > _I'm always available for new collaborations! Get in touch with me at [fabio.cumbo@gmail.com](mailto:fabio.cumbo@gmail.com?subject=Collaboration) or [cumbof@ccf.org](mailto:cumbof@ccf.org?subject=Collaboration)_
 
@@ -25,6 +27,8 @@ My research interests include but are not limited to:
 - __Machine Learning__: experienced in teaching modern Big Data Analytics and Visualization techniques, I also designed novel energy- and memory-efficient machine learning methods for dealing with massive amounts of biomedical data with commodity hardware as well as in distributed environments.
 
 - __Hyperdimensional Computing__: a.k.a. Vector-Symbolic Architectures, this is an emerging way of computing with vectors in a high-dimensional space. As a new computational paradigm, it has an innumerable fields of application, including artificial intelligence, cognitive science, robotics, natural language processing, bioinformatics, and the internet of things, among other scientific disciplines.
+
+- __Quantum Computing__: currently exploring its application to Hyperdimensional Computing and the development of new quantum neuromorphic architectures.
 
 ## Highlights
 
