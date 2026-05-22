@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Fabio Cumbo"
 title_separator          : "-"
 name                     : &name "Fabio Cumbo"
-description              : &description "personal web space"
+description              : &description "Bioinformatics, Machine Learning & Hyperdimensional Computing researcher"
 url                      : https://cumbof.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cumbof/cumbof.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Fabio Cumbo, Ph.D."
   avatar           : "Cumbo_Fabio_135221_square.jpg"
-  bio              : "Postdoctoral Researcher at the Blankenberg Lab, Center for Computational Life Sciences, Lerner Research Institute of the Cleveland Clinic Foundation, Cleveland, Ohio, USA"
+  bio              : "Research Associate at the Blankenberg Lab, Computational Life Sciences, Cleveland Clinic Research, Cleveland, Ohio, USA"
   location         : "Cleveland, OH, USA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=fabio+cumbo"
