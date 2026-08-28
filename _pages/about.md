@@ -32,6 +32,8 @@ My research interests include but are not limited to:
 
 | Date    | Event |
 |:--------|:------|
+| 08/2026 | 📄 _Characterization of microbial dark matter at scale with MetaSBT and taxonomy-aware Sequence Bloom Trees_ is published in [Nature Biotechnology](https://doi.org/10.1038/s41587-026-03245-7) |
+| 08/2026 | 🎓 [Certificate of Quantum Excellence](https://www.credly.com/badges/262ea0c9-7277-4bf9-8b80-6b0a8bb0bb57/) issued by IBM for successfully completing the Quantum Road to Practitioner Program 2026 |
 | 03/2026 | 📝 Appointed Associate Editor for [Frontiers in Bioinformatics – Genomic Analysis](https://www.frontiersin.org/journals/bioinformatics) |
 | 02/2026 | 🌱 Started a new position as Research Associate at Computational Life Sciences, Cleveland Clinic Research, Cleveland, OH, USA |
 | 12/2025 | 📝 Appointed Associate Editor for [Frontiers in Cellular and Infection Microbiology – Extra-intestinal Microbiome](https://www.frontiersin.org/journals/cellular-and-infection-microbiology) |
