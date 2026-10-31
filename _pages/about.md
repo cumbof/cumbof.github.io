@@ -20,13 +20,12 @@ My scientific portfolio — peer-reviewed journal articles, conference proceedin
 
 My research interests include but are not limited to:
 
-- __Bioinformatics__: developing computational methods in metagenomics for the discovery and characterization of known and yet-to-be-named microbial species, with a focus on strain-level taxonomy and large-scale metagenomic profiling;
+- Taxonomy-aware indexing and clustering of microbial genomes, including species absent from every reference database ([MetaSBT](https://github.com/cumbof/MetaSBT)).
+- Genome-scale metabolic modeling and dynamical simulation of microbial communities ([μODE](https://github.com/cumbof/muODE)).
+- Scalable numerical optimization for biological models ([manylp](https://github.com/cumbof/manylp)).
+- The human microbiome as a determinant of response to treatment.
 
-- __Machine Learning__: designing energy- and memory-efficient machine learning methods for analyzing large-scale biomedical datasets;
-
-- __Hyperdimensional Computing__: developing and applying Hyperdimensional Computing (Vector-Symbolic Architectures) to artificial intelligence and bioinformatics problems, including classification and feature selection on high-dimensional metagenomic data;
-
-- __Quantum Computing__: exploring the intersection of quantum computing and Hyperdimensional Computing, and the development of new quantum neuromorphic architectures.
+Other interests include: Hyperdimensional Computing, energy- and memory-efficient machine learning, Quantum Computing
 
 ## Highlights
 
